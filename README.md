@@ -1,48 +1,11 @@
-# SkillUpPlus2030
+# Sample Snack app
 
-Nome: Karoline de Souza da Silva
+Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
-🚀 Sobre o Projeto
+When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
 
-O SkillUpPlus 2030+ é um aplicativo mobile criado em React Native + Expo, com foco em apoiar estudantes e trabalhadores na requalificação profissional (reskilling/upskilling) frente às transformações tecnológicas do mercado de trabalho.
+All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
 
-A proposta é oferecer microtrilhas de aprendizado, progresso gamificado e recomendações personalizadas de acordo com o perfil do usuário — tudo em uma interface leve, responsiva e fácil de usar.
+If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
 
-🧭 Navegação Híbrida
-
-O aplicativo utiliza os três tipos principais de navegação do React Navigation, atendendo ao requisito da atividade:
-
-- Stack Navigation → Login e navegação geral do app
-- Drawer Navigation → Menu lateral com Início, Perfil, Sobre e Sair
-- Tab Navigation → Dashboard, Cursos e Progresso
-
-🧩 Funcionalidades
-
-✔ Login com persistência usando AsyncStorage
-✔ Validação de formulário (usuário/senha)
-✔ Seleção de área de interesse (Picker)
-✔ Dashboard com recomendações
-✔ Cursos filtráveis por área
-✔ Tela de detalhes do curso
-✔ Progresso gamificado com barra dinâmica
-✔ Perfil do usuário
-✔ Navegação híbrida completa
-✔ Layout limpo e responsivo
-
-🛠 Tecnologias Utilizadas
-- React Native
-- Expo
-- React Navigation (Stack, Drawer, Tabs)
-- AsyncStorage
-- Context API + Hooks
-- TypeScript
-
-🌐 Conexão com ODS da ONU
-
-ODS 4 – Educação de Qualidade: democratiza acesso à capacitação digital
-ODS 8 – Trabalho Decente: estimula desenvolvimento profissional
-ODS 9 – Inovação: promove uso de tecnologias acessíveis
-ODS 10 – Redução das Desigualdades: facilita inclusão tecnológica
-
-✨ Autor
-Karoline de Souza da Silva.
+Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
