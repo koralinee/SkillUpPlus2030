@@ -1,11 +1,73 @@
-# Sample Snack app
+📱 SkillUpPlus 2030+
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Aplicativo mobile desenvolvido como parte da A3 – Programação para Dispositivos Móveis I (PDM I).
+O projeto simula uma plataforma de aprendizado contínuo focada em reskilling e upskilling, oferecendo trilhas curtas, progresso gamificado e recomendações personalizadas conforme o perfil do usuário.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+🚀 Sobre o Projeto
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+O aplicativo SkillUpPlus 2030+ tem como objetivo apoiar estudantes e profissionais a se adaptarem às novas demandas do mercado de trabalho por meio de trilhas rápidas de capacitação.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+O app apresenta:
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+Trilhas recomendadas por área de interesse
+Dashboard com progresso
+Cursos filtráveis
+Perfil do usuário
+Login com persistência local (AsyncStorage)
+Desenvolvido usando React Native + Expo, com navegação híbrida (Stack, Drawer e Tabs).
+
+🧭 Navegação Utilizada
+
+O projeto utiliza os três principais tipos do React Navigation:
+
+- Stack Navigation → Login, tela principal e detalhes de curso
+- Drawer Navigation → Menu lateral com Início, Cursos, Perfil e Sobre
+- Tab Navigation → Dashboard, Cursos e Progresso
+
+🧩 Funcionalidades Principais
+
+✔ Tela de Login
+✔ Persistência de dados com AsyncStorage
+✔ Seleção de área de interesse
+✔ Dashboard com trilhas recomendadas
+✔ Listagem de cursos com filtro
+✔ Detalhe de curso com botão de progresso
+✔ Tela de Perfil do usuário
+✔ Tela Sobre
+✔ Barra de progresso dinâmica
+✔ Navegação híbrida completa
+
+🛠 Tecnologias
+
+- React Native
+- Expo
+- React Navigation (Stack, Drawer e Tabs)
+- AsyncStorage
+- Context API
+- TypeScript / JavaScript
+
+🗂 Estrutura do Projeto
+src/
+  components/
+  hooks/
+  navigation/
+  screens/
+  styles/
+App.js
+
+🌍 Conexão com os ODS da ONU
+
+Este projeto está alinhado aos seguintes Objetivos de Desenvolvimento Sustentável:
+
+ODS 4: Educação de Qualidade
+
+ODS 8: Trabalho Decente e Crescimento Econômico
+
+ODS 9: Indústria, Inovação e Infraestrutura
+
+ODS 10: Redução das Desigualdades
+
+
+📝 Autora
+
+Karoline de Souza da Silva
