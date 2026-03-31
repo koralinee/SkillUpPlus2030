@@ -1,6 +1,6 @@
 📱 SkillUpPlus 2030+
 
-Aplicativo mobile desenvolvido como parte da A3 – Programação para Dispositivos Móveis I (PDM I).
+Aplicativo mobile desenvolvido – Programação para Dispositivos Móveis.
 O projeto simula uma plataforma de aprendizado contínuo focada em reskilling e upskilling, oferecendo trilhas curtas, progresso gamificado e recomendações personalizadas conforme o perfil do usuário.
 
 🚀 Sobre o Projeto
